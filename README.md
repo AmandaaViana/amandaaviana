@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/amandaaviana/amandaaviana/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <!--
